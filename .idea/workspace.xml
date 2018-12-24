@@ -10,18 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e064ed9f-a77a-4a21-a0b2-cfc171c8454b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values-v21/styles.xml" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/Config.java" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/Config.java" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,14 +72,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="list_item_article.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
+      <file leaf-file-name="ArticleListActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
-              <folding>
-                <element signature="e#962#986#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="41" column="37" lean-forward="false" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_article_list.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
           <provider editor-type-id="android-designer2">
@@ -90,63 +95,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="23" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/Config.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values-v21/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArticleListActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="117" column="46" lean-forward="true" selection-start-line="117" selection-start-column="46" selection-end-line="117" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_article_detail.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fragment_article_detail.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="88" column="58" lean-forward="false" selection-start-line="88" selection-start-column="58" selection-end-line="88" selection-end-column="58" />
+            <state relative-caret-position="196">
+              <caret line="100" column="21" lean-forward="true" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
               <folding>
                 <element signature="e#1229#1253#0" expanded="true" />
+                <element signature="e#1828#1858#0" expanded="true" />
+                <element signature="e#1982#2013#0" expanded="true" />
+                <element signature="e#2395#2429#0" expanded="true" />
+                <element signature="e#2471#2505#0" expanded="true" />
+                <element signature="e#2545#2581#0" expanded="true" />
+                <element signature="e#2624#2660#0" expanded="true" />
+                <element signature="e#2709#2745#0" expanded="true" />
+                <element signature="e#3067#3111#0" expanded="true" />
+                <element signature="e#3317#3348#0" expanded="true" />
+                <element signature="e#4072#4106#0" expanded="true" />
+                <element signature="e#4154#4188#0" expanded="true" />
+                <element signature="e#4231#4265#0" expanded="true" />
+                <element signature="e#4427#4457#0" expanded="true" />
+                <element signature="e#4866#4888#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -176,8 +145,9 @@
       <find>up_contai</find>
       <find>up_container</find>
       <find>frag</find>
-      <find>color</find>
       <find>onCreateViewHolder</find>
+      <find>color</find>
+      <find>FloatingActionButton</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -2063,18 +2033,18 @@
       <list>
         <option value="$PROJECT_DIR$/XYZReader/build.gradle" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/Config.java" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values-v21/styles.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" />
       </list>
     </option>
   </component>
@@ -2143,13 +2113,6 @@
             </path>
             <path>
               <item name="xyz-Reader" type="1abcf292:AndroidViewProjectNode" />
-              <item name="XYZReader" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
-              <item name="styles" type="c431d0b8:AndroidResGroupNode" />
-            </path>
-            <path>
-              <item name="xyz-Reader" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
@@ -2167,7 +2130,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="192.168.56.101:5555" />
     <property name="android.profiler.active" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="articlelist&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java&#10;styl&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/values/styles.xml&#10;styles&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/values/styles/styles.xml&#10;sty&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/values/styles.xml&#10;string&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/values/strings.xml&#10;mani&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/AndroidManifest.xml&#10;acti&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/layout/activity_article_detail.xml&#10;.git&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/.gitignore&#10;android&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/AndroidManifest.xml" />
+    <property name="SearchEverywhereHistoryKey" value="fragmentdet&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/layout/fragment_article_detail.xml&#10;article&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/layout/activity_article_list.xml&#10;articlelist&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java&#10;styl&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/values/styles.xml&#10;styles&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/values/styles/styles.xml&#10;sty&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/values/styles.xml&#10;string&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/values/strings.xml&#10;mani&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/AndroidManifest.xml&#10;acti&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/res/layout/activity_article_detail.xml&#10;.git&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/.gitignore&#10;android&#9;FILE&#9;file:///Users/jeff/Desktop/curso_android/projetos_curso/xyz-Reader/XYZReader/src/main/AndroidManifest.xml" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -2412,7 +2375,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13557214" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33084577" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2445,7 +2408,7 @@
         <state relative-caret-position="435">
           <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
           <folding>
-            <element signature="e#962#986#0" expanded="true" />
+            <element signature="e#962#986#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2459,6 +2422,20 @@
           <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="67" />
           <folding>
             <element signature="e#1229#1253#0" expanded="true" />
+            <element signature="e#1828#1858#0" expanded="true" />
+            <element signature="e#1982#2013#0" expanded="true" />
+            <element signature="e#2395#2429#0" expanded="true" />
+            <element signature="e#2471#2505#0" expanded="true" />
+            <element signature="e#2545#2581#0" expanded="true" />
+            <element signature="e#2624#2660#0" expanded="true" />
+            <element signature="e#2709#2745#0" expanded="true" />
+            <element signature="e#3067#3111#0" expanded="true" />
+            <element signature="e#3317#3348#0" expanded="true" />
+            <element signature="e#4072#4106#0" expanded="true" />
+            <element signature="e#4154#4188#0" expanded="true" />
+            <element signature="e#4231#4265#0" expanded="true" />
+            <element signature="e#4427#4457#0" expanded="true" />
+            <element signature="e#4866#4888#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2678,17 +2655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="34" column="94" lean-forward="false" selection-start-line="34" selection-start-column="94" selection-end-line="34" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -2751,25 +2717,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="88" column="58" lean-forward="false" selection-start-line="88" selection-start-column="58" selection-end-line="88" selection-end-column="58" />
-          <folding>
-            <element signature="e#1229#1253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="259">
           <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
           <folding>
-            <element signature="e#962#986#0" expanded="true" />
+            <element signature="e#962#986#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2795,7 +2748,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
+        <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="23" selection-end-column="12" />
           <folding />
         </state>
@@ -2811,10 +2764,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="117" column="46" lean-forward="true" selection-start-line="117" selection-start-column="46" selection-end-line="117" selection-end-column="46" />
+        <state relative-caret-position="120">
+          <caret line="41" column="37" lean-forward="false" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="100" column="21" lean-forward="true" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+          <folding>
+            <element signature="e#1229#1253#0" expanded="true" />
+            <element signature="e#1828#1858#0" expanded="true" />
+            <element signature="e#1982#2013#0" expanded="true" />
+            <element signature="e#2395#2429#0" expanded="true" />
+            <element signature="e#2471#2505#0" expanded="true" />
+            <element signature="e#2545#2581#0" expanded="true" />
+            <element signature="e#2624#2660#0" expanded="true" />
+            <element signature="e#2709#2745#0" expanded="true" />
+            <element signature="e#3067#3111#0" expanded="true" />
+            <element signature="e#3317#3348#0" expanded="true" />
+            <element signature="e#4072#4106#0" expanded="true" />
+            <element signature="e#4154#4188#0" expanded="true" />
+            <element signature="e#4231#4265#0" expanded="true" />
+            <element signature="e#4427#4457#0" expanded="true" />
+            <element signature="e#4866#4888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
   </component>
